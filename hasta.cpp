@@ -1,7 +1,5 @@
 #include <iostream>
 #include <cstdio>
-#include <cassert>
-#include <cstdlib>
 
 static FILE *fr, *fw;
 
@@ -16,6 +14,7 @@ static int* R;
 
 void inizia(int N, int K, int V[], int R[])
 {
+
 }
 
 int istiga(int l, int r)

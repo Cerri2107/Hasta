@@ -1,4 +1,5 @@
 .vscode
+grader.cpp
 *.ilk
 *.obj
 *.pdb
